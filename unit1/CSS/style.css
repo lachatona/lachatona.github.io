@@ -1,8 +1,8 @@
-body{background-color: #4747A3;
-}
-h1,h2{font-family:arial;
+body{
+	background-color: #4747A3;
 	color: #33CCCC;
+	font-family:'Times New Roman', georgia, serif;
 }
-p{font-family:Times New Roman;
-  color: #33CCCC;
+h1,h2{
+	font-family:arial, helvetica, sans-serif;
 }
