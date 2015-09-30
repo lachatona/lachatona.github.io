@@ -1,0 +1,62 @@
+header{text-align: center;
+	padding: 20px;
+
+}
+hr{width: 800px;
+	background-color: #f0f0f0;
+	float:double;
+
+}
+nav{font-style: normal;
+	text-transform: uppercase;
+	font-weight: 300px;
+
+}
+nav a{
+	margin: 10px;
+	text-decoration: none;
+}
+
+div.img{
+	height:auto;
+	width:auto; 
+	text-align: center;
+	margin: 20px;
+	padding: 20px;
+	
+}
+body{
+	background-color: #FF6E6E;
+	color: #FFFFBF;
+	font-family:'Times New Roman', georgia, serif;
+}
+h1{
+	font-family:arial, helvetica, sans-serif;
+}
+#slogan {font-style: italic;
+	font-family: 'Times New Roman';
+}
+ul{text-align: center;
+	font-size: 14px;
+	font-weight: 200;
+	font-family: sans-serif;
+	list-style-type: none;
+	font-variant: normal;
+	line-height: 20px;
+}
+ul a{
+	text-decoration: none;
+}
+p{text-align: center;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-weight: 500;
+	font-size: 17px
+	text-transform:uppercase;
+}
+a{text-decoration: none;
+	text-align: center;
+	text-transform: lowercase;
+	font-family: Arial,helvetica,sans-serif
+
+}
