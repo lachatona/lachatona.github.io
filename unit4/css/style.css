@@ -1,0 +1,100 @@
+header{text-align: center;
+	padding: 20px;
+	}
+hr{width: 800px;
+	background-color: #f0f0f0;
+	float:double;
+
+}
+nav{
+    font-style: normal;
+	text-transform: uppercase;
+
+	}
+nav a{
+	font-family: 'Cherry Cream Soda', cursive;
+	margin: 20px;
+	text-decoration: none;
+	color: white;
+	font-weight: 10px
+
+
+}
+
+div.img{
+	height:auto;
+	width:auto; 
+	text-align: center;
+	margin: 10px;
+	padding: 20px;
+
+	
+}
+body{
+	background-color: #33D6AD;
+	color: #FFFF66;
+	
+}
+h1{
+	font-family: 'Cherry Cream Soda', cursive;
+}
+
+#slogan {
+	font-family: 'PT Sans', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+ul{text-align: center;
+	font-size: 14px;
+	font-weight: 200;
+	list-style-type: none;
+	font-variant: normal;
+	line-height: 28px;
+}
+
+a{
+	text-decoration: none;
+	text-align: center;
+	text-transform:uppercase;
+	color: white;
+	font-weight: 10px;
+	font-family: 'Cherry Cream Soda', cursive;
+	font-weight: bold;
+	
+}
+
+p{
+	font-family: 'Oswald',sans-serif;
+	text-align: center;
+
+}
+h3{
+	text-align: center;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: 'PT Sans',sans-serif;
+}
+.info{
+	 font-size: 15px;
+	 line-height: 1.5em;
+	 margin: 2em;
+	 font-family: 'Oswald', sans-serif;
+	 color: black;
+	 font-weight: 30px;
+	 
+}
+
+.contact{
+	font-size: 18px;
+    font-family: 'PT Sans',sans-serif;
+	text-transform: uppercase; 
+}
+h4{
+	text-align: center;
+}
+.two{
+	font-size: 18px;
+	text-decoration: none;
+	font-family: 'Oswald',sans-serif;
+	color: #FFFF66;
+}
